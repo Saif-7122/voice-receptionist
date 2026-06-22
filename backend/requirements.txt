@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+supabase
+langchain
+langchain-community
+langchain-huggingface
+langchain-groq
+sentence-transformers
+python-dotenv
+httpx
+langfuse
